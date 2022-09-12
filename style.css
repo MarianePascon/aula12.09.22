@@ -1,0 +1,36 @@
+body{
+    background-color: #511f52;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #511f52;
+    
+}
+
+div{
+    background-color: #a987a8;
+    display: block;
+    margin: 250px;
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    padding: 100px;
+    border-radius: 10px;
+
+}
+
+h1{
+    color: #511f52;
+    font-size: 50px;
+}
+button{
+    border: none;
+    font-size: 20px;
+    background-color: #511f52;
+    color: #a987a8;
+    border-radius: 5px;
+}
+
+p{
+    color: #511f52;
+}
